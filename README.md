@@ -1,11 +1,11 @@
-# Object-Content-Compartor
+# Object-Content-Comparator
 
 Compare objects of any type based on their property values.
 
 ## Download
 :white_check_mark: .net core v2.0\
 :white_check_mark: .net framework v4.6\
-**[Download latest release here](https://github.com/tobiaswuerth/Object-Content-Comparator/releases/tag/v0.1)**
+**[Download latest release here (pre-release v0.1)](https://github.com/tobiaswuerth/Object-Content-Comparator/releases/tag/v0.1)**
 
 ## How does it work?
 
