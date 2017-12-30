@@ -4,6 +4,11 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
     <AssemblyName>ch.wuerth.tobias.occ.ObjectContentComparator</AssemblyName>
     <RootNamespace>ch.wuerth.tobias.occ.ObjectContentComparator</RootNamespace>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Copyright>Tobias Würth</Copyright>
+    <PackageLicenseUrl>https://github.com/tobiaswuerth/Object-Content-Comparator/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/tobiaswuerth/Object-Content-Comparator</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/tobiaswuerth/Object-Content-Comparator</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>

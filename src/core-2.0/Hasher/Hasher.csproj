@@ -4,6 +4,11 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
     <AssemblyName>ch.wuerth.tobias.occ.Hasher</AssemblyName>
     <RootNamespace>ch.wuerth.tobias.occ.Hasher</RootNamespace>
+    <PackageProjectUrl>https://github.com/tobiaswuerth/Object-Content-Comparator</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/tobiaswuerth/Object-Content-Comparator</RepositoryUrl>
+    <Copyright>Tobias Würth</Copyright>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageLicenseUrl>https://github.com/tobiaswuerth/Object-Content-Comparator/blob/master/LICENSE</PackageLicenseUrl>
   </PropertyGroup>
 
 </Project>
